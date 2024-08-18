@@ -4,6 +4,7 @@ Dual Universe.
 Calculates how many warp cells it's going to take to get somewhere.
 
 Features
+
 Time till Destination   = TTD
 
 Displays Destination that was chosen.
@@ -13,6 +14,7 @@ Does Speed displayed as Velocity
 Comes with Sleek White Buttons.
 
 Requirements:
+
 1 Dynamic Construct
 
 1 Screen
