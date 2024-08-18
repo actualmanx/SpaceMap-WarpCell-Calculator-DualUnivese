@@ -23,4 +23,8 @@ Requirements:
 
 Link Screen then Core
 
-This is not mine i found it on the net from MastersOfAll i have only updated it and uploaded here for safe keeping
+Copy the code from Paste-Lua-Code-from-Clipboard and paste into the Programming board.
+
+turn on programming board or use a switch or my favorite, detection zone.
+
+This is not mine i found it on the net from MasterOfAll i have only updated it and uploaded here for safe keeping
